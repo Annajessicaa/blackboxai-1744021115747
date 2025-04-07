@@ -1,0 +1,3 @@
+Ini adalah file teks contoh untuk menguji fungsi enkripsi dan dekripsi.
+File ini berisi teks biasa yang akan dienkripsi menjadi format yang aman.
+Setelah dienkripsi, file ini harus bisa didekripsi kembali ke bentuk aslinya.
